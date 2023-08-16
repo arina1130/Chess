@@ -1,0 +1,268 @@
+C:\Users\Арина\Desktop\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Арина\Desktop\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Арина\Desktop\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\MainWindow.g.cs
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Menu.g.cs
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Win.g.cs
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\App.g.cs
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\MainWindow.baml
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Menu.baml
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Win.baml
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Арина\Desktop\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Menu.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Win.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Menu.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Win.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\RulesOfGame.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\RulesOfGame.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Settings.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Settings.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\PlayerNames.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\PlayerNames.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Exit.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Exit.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\ContinuationOfGame.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\ContinuationOfGame.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\EndOfGame.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\EndOfGame.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\ControlzEx.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\MahApps.Metro.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\ControlzEx.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\ControlzEx.xml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\MahApps.Metro.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\MahApps.Metro.xml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\DotLiquid.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\DotLiquid.xml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\PawnChange.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу (шахматы)\Chess\Chess\obj\Debug\PawnChange.baml
+D:\Chess\Chess\bin\Debug\Chess.exe.config
+D:\Chess\Chess\bin\Debug\Chess.exe
+D:\Chess\Chess\bin\Debug\Chess.pdb
+D:\Chess\Chess\bin\Debug\ControlzEx.dll
+D:\Chess\Chess\bin\Debug\DotLiquid.dll
+D:\Chess\Chess\bin\Debug\MahApps.Metro.dll
+D:\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Chess\Chess\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Chess\Chess\bin\Debug\ControlzEx.pdb
+D:\Chess\Chess\bin\Debug\ControlzEx.xml
+D:\Chess\Chess\bin\Debug\DotLiquid.xml
+D:\Chess\Chess\bin\Debug\MahApps.Metro.pdb
+D:\Chess\Chess\bin\Debug\MahApps.Metro.xml
+D:\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Chess\Chess\bin\Debug\it\DotLiquid.resources.dll
+D:\Chess\Chess\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+D:\Chess\Chess\obj\Debug\PlayerNames.baml
+D:\Chess\Chess\obj\Debug\ContinuationOfGame.g.cs
+D:\Chess\Chess\obj\Debug\EndOfGame.g.cs
+D:\Chess\Chess\obj\Debug\Exit.g.cs
+D:\Chess\Chess\obj\Debug\MainWindow.g.cs
+D:\Chess\Chess\obj\Debug\Menu.g.cs
+D:\Chess\Chess\obj\Debug\PawnChange.g.cs
+D:\Chess\Chess\obj\Debug\PlayerNames.g.cs
+D:\Chess\Chess\obj\Debug\RulesOfGame.g.cs
+D:\Chess\Chess\obj\Debug\Settings.g.cs
+D:\Chess\Chess\obj\Debug\Win.g.cs
+D:\Chess\Chess\obj\Debug\App.g.cs
+D:\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+D:\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+D:\Chess\Chess\obj\Debug\ContinuationOfGame.baml
+D:\Chess\Chess\obj\Debug\EndOfGame.baml
+D:\Chess\Chess\obj\Debug\Exit.baml
+D:\Chess\Chess\obj\Debug\MainWindow.baml
+D:\Chess\Chess\obj\Debug\Menu.baml
+D:\Chess\Chess\obj\Debug\PawnChange.baml
+D:\Chess\Chess\obj\Debug\RulesOfGame.baml
+D:\Chess\Chess\obj\Debug\Settings.baml
+D:\Chess\Chess\obj\Debug\Win.baml
+D:\Chess\Chess\obj\Debug\Chess.g.resources
+D:\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+D:\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+D:\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+D:\Chess\Chess\obj\Debug\Chess.exe
+D:\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\ControlzEx.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\DotLiquid.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\MahApps.Metro.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\ControlzEx.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\ControlzEx.xml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\DotLiquid.xml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\MahApps.Metro.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\MahApps.Metro.xml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\PlayerNames.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\ContinuationOfGame.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\EndOfGame.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Exit.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Menu.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\PawnChange.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\PlayerNames.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\RulesOfGame.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Settings.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Win.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\ContinuationOfGame.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\EndOfGame.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Exit.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Menu.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\PawnChange.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\RulesOfGame.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Settings.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Win.baml
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\arina\OneDrive\Рабочий стол\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\ControlzEx.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\DotLiquid.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\MahApps.Metro.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\ControlzEx.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\ControlzEx.xml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\DotLiquid.xml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\MahApps.Metro.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\MahApps.Metro.xml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\PlayerNames.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\ContinuationOfGame.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\EndOfGame.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Exit.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Menu.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\PawnChange.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\PlayerNames.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\RulesOfGame.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Settings.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Win.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\ContinuationOfGame.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\EndOfGame.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Exit.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Menu.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\PawnChange.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\RulesOfGame.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Settings.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Win.baml
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.csproj.CopyComplete
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\arina\OneDrive\Рабочий стол\Прошлое. Учеба\ООП\Все по курсачу ООП(шахматы)\Chess\Chess\obj\Debug\Chess.pdb

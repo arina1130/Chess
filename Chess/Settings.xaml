@@ -1,0 +1,82 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Chess"
+      xmlns:muxc="using:Microsoft.UI.Xaml.Controls" xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+      xmlns:controlzex="urn:controlzex" x:Class="Chess.Settings"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800" Height="600"
+      Title="Settings">
+    <Page.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="#46211A"/>
+            <Setter Property="Foreground" Value="#C9A66B"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="FontFamily" Value="Gill Sans MT Ext Condensed Bold"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border CornerRadius="10"
+                                Background="{TemplateBinding Background}">
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                              VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="10"/>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FF350D05"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style TargetType="{x:Type TextBlock}">
+            <Setter Property="Foreground" Value="#C9A66B"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontFamily" Value="Yandex-UI-Icons-Private"/>
+        </Style>
+        <Style x:Key="SettingText" TargetType="{x:Type TextBlock}">
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Foreground" Value="#C9A66B"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="FontFamily" Value="Yandex-UI-Icons-Private"/>
+        </Style>
+        <Style TargetType="{x:Type ToggleButton}">
+            <Setter Property="Foreground" Value="#C9A66B"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Height" Value="30"/>
+            <Setter Property="Width" Value="80"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Style.Triggers>
+                <Trigger Property="IsChecked" Value="True">
+                    <Setter Property="Content" Value="Вкл."/>
+                </Trigger>
+                <Trigger Property="IsChecked" Value="False">
+                    <Setter Property="Content" Value="Выкл."/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Page.Resources>
+    <Grid>
+        <Button x:Name="back" Content="Вернуться в меню" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="back_Click"/>
+        <TextBlock Margin="0,20,0,0" FontSize="26" Width="400" Height="45" HorizontalAlignment="Center" Text="Настройки" TextAlignment="Center" VerticalAlignment="Top"/>
+        <TextBlock Style="{StaticResource SettingText}" HorizontalAlignment="Left" Margin="200,139,0,0" Text="Таймер:" VerticalAlignment="Top" />
+        <ToggleButton x:Name="isTimerOn" x:FieldModifier="public" Margin="510,137,200,433" IsChecked="False"/>
+        <TextBlock Style="{StaticResource SettingText}" HorizontalAlignment="Left" Margin="200,181,0,0" Text="Время:" IsEnabled="{Binding IsChecked, ElementName=timer}" VerticalAlignment="Top" />
+        <ToggleButton x:Name="isVisibleMoves" Margin="510,218,200,352" IsChecked="True"/>
+        <TextBlock Style="{StaticResource SettingText}" HorizontalAlignment="Left" Margin="200,223,0,0" Text="Видимость доступных ходов:" IsEnabled="{Binding IsChecked, ElementName=timer}" VerticalAlignment="Top" />
+        <mah:NumericUpDown Name="Minute" Margin="510,175,200,390" IsEnabled="{Binding IsChecked, ElementName=isTimerOn}" Minimum="0" Maximum="60" Value="15" FontSize="20" Height="35" Background="White" Width="80"/>
+    </Grid>
+</Page>

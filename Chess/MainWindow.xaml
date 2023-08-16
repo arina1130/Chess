@@ -1,0 +1,18 @@
+﻿<Window x:Class="Chess.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chess"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800" WindowStyle="None">
+    <Grid>
+        <Frame x:Name="frame" NavigationUIVisibility="Hidden"/>
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="#FFE48B6E" Offset="0"/>
+                <GradientStop Color="#662E1C" Offset="1"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+    </Grid>
+</Window>
